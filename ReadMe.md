@@ -7,7 +7,7 @@ This project is a **full-stack HR Management System** designed as teaching mater
 ## Project Structure
 
 ```
-lab7-dbms-app-main/
+DB-HRApp-Main/
 │
 ├── backend/      # Node.js/Express API server (connects to OracleDB)
 ├── frontend/     # React web application (user interface)
@@ -49,20 +49,19 @@ lab7-dbms-app-main/
 ### 1. Clone the Repository
 
 ```sh
-git clone <repo-url>
-cd lab7-dbms-app-main
+git clone https://github.com/DeebajHaider/DB-HRApp-Main.git
+cd DB-HRApp-Main
 ```
 
 ### 2. Configure Backend Environment
 
 - Go to the `backend/` folder.
-- Create a `.env` file with your OracleDB credentials:
+- Change the .env.example file into a `.env` file with your OracleDB credentials:
 
   ```
   DB_USER=your_db_username
   DB_PASSWORD=your_db_password
   DB_CONNECT_STRING=your_db_connect_string
-  PORT=3001
   ```
 
 ### 3. Install Dependencies
