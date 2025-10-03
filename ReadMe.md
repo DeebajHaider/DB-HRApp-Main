@@ -4,6 +4,12 @@ This project is a **full-stack HR Management System** designed as teaching mater
 
 ---
 
+##Acknowledgement
+
+This project is from the following repository: [text](https://github.com/ShehzadAslamOza/lab7-dbms-app/tree/main)
+
+---
+
 ## Project Structure
 
 ```
