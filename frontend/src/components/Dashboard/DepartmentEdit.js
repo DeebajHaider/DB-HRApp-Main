@@ -27,7 +27,7 @@ const DepartmentEdit = ({
   }, []);
 
   const handleUpdate = async () => {
-    //LAB TASK OPTIONAL: Add logic to update departments here
+    //OPTIONAL TASK: Add logic to update departments here
   }
 
   return (

@@ -12,7 +12,7 @@ const Dashboard = () => {
   const [isAdding, setIsAdding] = useState(false);
   const [isEditing, setIsEditing] = useState(false);
 
-  //LAB DEMO: Add call to fetch employees here:
+ 
   useEffect(() => {
     fetch(`http://localhost:3001/api/employees/`, {
       method: "GET",

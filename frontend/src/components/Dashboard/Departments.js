@@ -13,11 +13,11 @@ const DepartmentsDashboard = ({ setIsAuthenticated }) => {
   const [isEditing, setIsEditing] = useState(false);
 
   useEffect(() => {
-    //LAB TASK: Add logic to fetch departments here.
+    //OPTIONAL TASK: Add logic to fetch departments here.
   }, []);
 
   const handleEdit = (id) => {
-    //LAB TASK OPTIONAL: Add logic to update departments here
+    //OPTIONAL TASK: Add logic to update departments here
   };
 
   return (

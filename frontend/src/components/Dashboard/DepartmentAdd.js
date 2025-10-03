@@ -38,7 +38,7 @@ const DepartmentAdd = ({
   }, []);
 
   const handleAdd = async () => {
-    //LAB TASK OPTIONAL: Add logic to add departments here
+    //OPTIONAL TASK: Add logic to add departments here
   };
 
   return (
